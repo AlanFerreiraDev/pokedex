@@ -113,11 +113,6 @@ export default {
 
 </script>
 
-<style>
-  .container-arrows {
-
-  }
-</style>
 
 
 
